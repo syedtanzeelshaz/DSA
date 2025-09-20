@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello and welcome! Lets learn DSA in Java!");
 
         DataStructure.demoArrayList();
+
     }
 }
