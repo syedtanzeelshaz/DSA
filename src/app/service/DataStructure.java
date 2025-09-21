@@ -7,5 +7,6 @@ public class DataStructure {
         DataStructureInterface ds = new DS_ArrayList();
 
         ds.demoBasicOperations();
+
     }
 }
